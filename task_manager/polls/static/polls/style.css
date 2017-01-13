@@ -2,3 +2,8 @@
 li a{
 	color: green;
 }
+
+body{
+	background: white url("images/business-poll-survey2-2401.jpg") right bottom;
+	background-repeat: no-repeat;
+}
